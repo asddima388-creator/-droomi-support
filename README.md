@@ -6,20 +6,46 @@ Droomi is a creative drawing app made for learning, experimenting, and having fu
 
 ## Need Help?
 
-If you have a question, found a bug, or need help with Droomi, you can contact us at:
+If you have a question, found a bug, or need help with Droomi, contact us at:
 
 **Email:** droomiapp@gmail.com
 
-We’ll do our best to help.
+We'll do our best to help.
 
-## Privacy
+# Privacy Policy
 
-Your privacy matters to us. You can find Droomi’s Privacy Policy inside the app under:
+**Last updated: September 22, 2026**
 
-**Settings → Privacy Policy**
+Droomi respects your privacy. This Privacy Policy explains how information may be handled when you use the Droomi app.
 
-## About Droomi
+## Information We Collect
 
-Draw freely, learn step by step, or let Pause & Draw surprise you with your next challenge.
+Droomi does not require you to create an account or provide personal information to use the app.
 
-Made with care for artists, beginners, and anyone who just wants to draw.
+Drawings and artwork created in Droomi are stored locally on your device unless you choose to export or share them.
+
+## Advertising
+
+Droomi uses third-party advertising services to display ads, including rewarded and interstitial ads.
+
+These third-party services may collect certain information, such as device identifiers, advertising data, approximate location, app interactions, diagnostics, and other information necessary to provide, measure, and improve advertising services.
+
+The collection and use of this information are governed by the privacy policies of the respective third-party service providers.
+
+## Your Artwork
+
+Droomi does not upload your drawings or artwork to our servers. Your artwork remains on your device unless you choose to export or share it.
+
+## Children's Privacy
+
+Droomi is not intended to knowingly collect personal information from children. Third-party advertising services may process data according to their own privacy policies and applicable laws.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy when necessary. Any changes will be reflected on this page.
+
+## Contact
+
+If you have questions about this Privacy Policy or Droomi, contact us at:
+
+**Email:** droomiapp@gmail.com
